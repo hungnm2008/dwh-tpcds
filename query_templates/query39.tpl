@@ -42,7 +42,7 @@ with inv as
 (select w_warehouse_name,w_warehouse_sk,i_item_sk,d_moy
        ,stdev,mean, case mean when 0 then null else stdev/mean end cov
  from(select w_warehouse_name,w_warehouse_sk,i_item_sk,d_moy
-            ,stddev_samp(inv_quantity_on_hand) stdev,avg(inv_quantity_on_hand) mean
+            ,stdev(inv_quantity_on_hand) stdev,avg(inv_quantity_on_hand) mean
       from inventory
           ,item
           ,warehouse
@@ -69,7 +69,7 @@ with inv as
 (select w_warehouse_name,w_warehouse_sk,i_item_sk,d_moy
        ,stdev,mean, case mean when 0 then null else stdev/mean end cov
  from(select w_warehouse_name,w_warehouse_sk,i_item_sk,d_moy
-            ,stddev_samp(inv_quantity_on_hand) stdev,avg(inv_quantity_on_hand) mean
+            ,stdev(inv_quantity_on_hand) stdev,avg(inv_quantity_on_hand) mean
       from inventory
           ,item
           ,warehouse
@@ -91,3 +91,4 @@ where inv1.i_item_sk = inv2.i_item_sk
 order by inv1.w_warehouse_sk,inv1.i_item_sk,inv1.d_moy,inv1.mean,inv1.cov
         ,inv2.d_moy,inv2.mean, inv2.cov
 ;
+--------------------END_OF_query39--------------------

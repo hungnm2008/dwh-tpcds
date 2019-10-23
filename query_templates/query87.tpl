@@ -54,3 +54,4 @@ from ((select distinct c_last_name, c_first_name, d_date
          and d_month_seq between [DMS] and [DMS]+11)
 ) cool_cust
 ;
+--------------------END_OF_query87--------------------

@@ -159,6 +159,7 @@
  or 
  store.currency_rank <= 10
  )
- )
+ ) a
  order by 1,4,5,2
  [_LIMITC];
+--------------------END_OF_query49--------------------

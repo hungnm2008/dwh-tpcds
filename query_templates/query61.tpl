@@ -81,3 +81,4 @@ from
 order by promotions, total
 [_LIMITC];
 
+--------------------END_OF_query61--------------------

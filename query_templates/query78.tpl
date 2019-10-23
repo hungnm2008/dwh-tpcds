@@ -92,3 +92,4 @@ order by
   other_chan_sales_price,
   ratio
 [_LIMITC];
+--------------------END_OF_query78--------------------

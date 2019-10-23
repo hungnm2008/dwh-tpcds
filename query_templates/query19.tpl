@@ -48,7 +48,7 @@
    and d_year=[YEAR]
    and ss_customer_sk = c_customer_sk 
    and c_current_addr_sk = ca_address_sk
-   and substr(ca_zip,1,5) <> substr(s_zip,1,5) 
+   and SUBSTRING(ca_zip,1,5) <> SUBSTRING(s_zip,1,5) 
    and ss_store_sk = s_store_sk 
  group by i_brand
       ,i_brand_id
@@ -62,3 +62,4 @@
 [_LIMITC] ;
 
 
+--------------------END_OF_query19--------------------

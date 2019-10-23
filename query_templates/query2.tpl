@@ -44,7 +44,7 @@
         union all
         select cs_sold_date_sk sold_date_sk
               ,cs_ext_sales_price sales_price
-        from catalog_sales)),
+        from catalog_sales) a),
  wswscs as 
  (select d_week_seq,
         sum(case when (d_day_name='Sunday') then sales_price else null end) sun_sales,
@@ -91,4 +91,4 @@
   where date_dim.d_week_seq = wswscs.d_week_seq and
         d_year = [YEAR]+1) z
  where d_week_seq1=d_week_seq2-53
- order by d_week_seq1;
+ order by d_week_seq1;--------------------END_OF_query2--------------------

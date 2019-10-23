@@ -62,3 +62,4 @@ ORDER BY channel, col_name, d_year, d_qoy, i_category
  
  
 
+--------------------END_OF_query76--------------------

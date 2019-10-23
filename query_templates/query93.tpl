@@ -51,3 +51,4 @@ define _LIMIT=100;
       group by ss_customer_sk
       order by sumsales, ss_customer_sk
 [_LIMITC];
+--------------------END_OF_query93--------------------

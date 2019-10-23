@@ -117,3 +117,4 @@
          ,t_s_secyear.customer_last_name
          ,[SELECTONE]
 [_LIMITC];
+--------------------END_OF_query11--------------------

@@ -53,3 +53,4 @@
  group by s_store_name, s_store_id
  order by s_store_name, s_store_id,sun_sales,mon_sales,tue_sales,wed_sales,thu_sales,fri_sales,sat_sales
  [_LIMITC]; 
+--------------------END_OF_query43--------------------

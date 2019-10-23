@@ -57,7 +57,7 @@ left outer join promotion on (cs_promo_sk=p_promo_sk)
 left outer join catalog_returns on (cr_item_sk = cs_item_sk and cr_order_number = cs_order_number)
 where d1.d_week_seq = d2.d_week_seq
   and inv_quantity_on_hand < cs_quantity 
-  and d3.d_date > d1.d_date + 5
+  and d3.d_date > dateadd(day,5,d1.d_date)
   and hd_buy_potential = '[BP]'
   and d1.d_year = [YEAR]
   and cd_marital_status = '[MS]'
@@ -65,3 +65,4 @@ group by i_item_desc,w_warehouse_name,d1.d_week_seq
 order by total_cnt desc, i_item_desc, w_warehouse_name, d_week_seq
 [_LIMITC];
 
+--------------------END_OF_query72--------------------

@@ -72,3 +72,4 @@
  group by i_brand, i_brand_id,t_hour,t_minute
  order by ext_price desc, i_brand_id
  ;
+--------------------END_OF_query71--------------------

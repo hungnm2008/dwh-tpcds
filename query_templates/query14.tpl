@@ -67,7 +67,7 @@ with  cross_items as
      ,date_dim d3
  where ws_item_sk = iws.i_item_sk
    and ws_sold_date_sk = d3.d_date_sk
-   and d3.d_year between [YEAR] AND [YEAR] + 2)
+   and d3.d_year between [YEAR] AND [YEAR] + 2) a
  where i_brand_id = brand_id
       and i_class_id = class_id
       and i_category_id = category_id
@@ -245,3 +245,4 @@ with  cross_items as
  order by this_year.channel, this_year.i_brand_id, this_year.i_class_id, this_year.i_category_id
  [_LIMITC];
 
+--------------------END_OF_query14--------------------

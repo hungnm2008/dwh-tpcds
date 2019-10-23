@@ -105,3 +105,4 @@ WITH all_sales AS (
    AND CAST(curr_yr.sales_cnt AS DECIMAL(17,2))/CAST(prev_yr.sales_cnt AS DECIMAL(17,2))<0.9
  ORDER BY sales_cnt_diff,sales_amt_diff
  [_LIMITC];
+--------------------END_OF_query75--------------------

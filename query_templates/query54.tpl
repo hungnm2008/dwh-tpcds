@@ -93,3 +93,4 @@
  order by segment, num_customers
  [_LIMITC];
  
+--------------------END_OF_query54--------------------

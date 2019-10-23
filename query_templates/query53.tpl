@@ -62,3 +62,4 @@ order by avg_quarterly_sales,
 	 i_manufact_id
 [_LIMITC];
 
+--------------------END_OF_query53--------------------
