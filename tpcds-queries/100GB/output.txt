@@ -1,0 +1,1417 @@
+c_customer_id   
+----------------
+AAAAAAAAAAAAJAAA
+AAAAAAAAAAAANAAA
+AAAAAAAAAAABCBAA
+AAAAAAAAAAABGAAA
+AAAAAAAAAAABKBAA
+AAAAAAAAAAABNAAA
+AAAAAAAAAAABOBAA
+AAAAAAAAAAACDAAA
+AAAAAAAAAAACEBAA
+AAAAAAAAAAACKAAA
+AAAAAAAAAAADAAAA
+AAAAAAAAAAADDAAA
+AAAAAAAAAAADFBAA
+AAAAAAAAAAADFBAA
+AAAAAAAAAAADIAAA
+AAAAAAAAAAAEEBAA
+AAAAAAAAAAAEHAAA
+AAAAAAAAAAAEJBAA
+AAAAAAAAAAAFABAA
+AAAAAAAAAAAFBAAA
+AAAAAAAAAAAFFAAA
+AAAAAAAAAAAFFBAA
+AAAAAAAAAAAFGAAA
+AAAAAAAAAAAFGBAA
+AAAAAAAAAAAFHAAA
+AAAAAAAAAAAGCAAA
+AAAAAAAAAAAGGAAA
+AAAAAAAAAAAGGAAA
+AAAAAAAAAAAGLAAA
+AAAAAAAAAAAGNAAA
+AAAAAAAAAAAGOAAA
+AAAAAAAAAAAGOAAA
+AAAAAAAAAAAHAAAA
+AAAAAAAAAAAHFBAA
+AAAAAAAAAAAHLAAA
+AAAAAAAAAAAHNAAA
+AAAAAAAAAAAIHBAA
+AAAAAAAAAAAIMBAA
+AAAAAAAAAAAIPAAA
+AAAAAAAAAAAJFAAA
+AAAAAAAAAAAJGBAA
+AAAAAAAAAAAJJAAA
+AAAAAAAAAAAKAAAA
+AAAAAAAAAAAKLAAA
+AAAAAAAAAAALBBAA
+AAAAAAAAAAALDAAA
+AAAAAAAAAAALFAAA
+AAAAAAAAAAALGAAA
+AAAAAAAAAAALKAAA
+AAAAAAAAAAALNAAA
+AAAAAAAAAAAMFBAA
+AAAAAAAAAAAMHAAA
+AAAAAAAAAAAMHAAA
+AAAAAAAAAAAMHAAA
+AAAAAAAAAAAMJAAA
+AAAAAAAAAAAMNAAA
+AAAAAAAAAAANEBAA
+AAAAAAAAAAANFBAA
+AAAAAAAAAAANKBAA
+AAAAAAAAAAANMBAA
+AAAAAAAAAAANNAAA
+AAAAAAAAAAAOIAAA
+AAAAAAAAAAAOJBAA
+AAAAAAAAAAAOKAAA
+AAAAAAAAAAAOKBAA
+AAAAAAAAAAAONAAA
+AAAAAAAAAAAPBAAA
+AAAAAAAAAAAPCAAA
+AAAAAAAAAAAPCBAA
+AAAAAAAAAAAPIAAA
+AAAAAAAAAAAPLAAA
+AAAAAAAAAAAPPAAA
+AAAAAAAAAABAAAAA
+AAAAAAAAAABAEAAA
+AAAAAAAAAABAJAAA
+AAAAAAAAAABAJBAA
+AAAAAAAAAABAMAAA
+AAAAAAAAAABBGBAA
+AAAAAAAAAABBHBAA
+AAAAAAAAAABBJAAA
+AAAAAAAAAABCFAAA
+AAAAAAAAAABCHBAA
+AAAAAAAAAABCIBAA
+AAAAAAAAAABCMAAA
+AAAAAAAAAABCPAAA
+AAAAAAAAAABDFAAA
+AAAAAAAAAABDGAAA
+AAAAAAAAAABDGAAA
+AAAAAAAAAABDMAAA
+AAAAAAAAAABDPAAA
+AAAAAAAAAABECBAA
+AAAAAAAAAABEJBAA
+AAAAAAAAAABFABAA
+AAAAAAAAAABFGAAA
+AAAAAAAAAABFHAAA
+AAAAAAAAAABFHBAA
+AAAAAAAAAABFLAAA
+AAAAAAAAAABGCAAA
+AAAAAAAAAABGDAAA
+AAAAAAAAAABGGAAA
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 26840 ms,  elapsed time = 29764 ms.
+d_week_seq1                                                                                                                                                                                                                                                                                               
+----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+d_year      brand_id    brand                                              sum_agg                                 
+----------- ----------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+customer_id      customer_first_name  customer_last_name             customer_birth_country
+---------------- -------------------- ------------------------------ ----------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+channel         id                           sales                                    returns                                  profit                                  
+--------------- ---------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+NULL            NULL                                                              .00                             239569088.38                            -141697391.71
+catalog channel NULL                                                              .00                              95808461.48                             -55883197.84
+catalog channel catalog_pageAAAAAAAAAAABAAAA                                      .00                                  9309.52                                 -5156.19
+catalog channel catalog_pageAAAAAAAAAAACAAAA                                      .00                                  4879.52                                 -3248.79
+catalog channel catalog_pageAAAAAAAAAAFBAAAA                                      .00                                   853.20                                  -178.66
+catalog channel catalog_pageAAAAAAAAAAGBAAAA                                      .00                                  6945.47                                 -5859.21
+catalog channel catalog_pageAAAAAAAAAALBAAAA                                      .00                                313331.78                               -172566.40
+catalog channel catalog_pageAAAAAAAAAAMBAAAA                                      .00                                 29106.47                                -24821.35
+catalog channel catalog_pageAAAAAAAAAANBAAAA                                      .00                                 38800.31                                -21777.67
+catalog channel catalog_pageAAAAAAAAAAOAAAAA                                      .00                                 29470.17                                -15489.18
+catalog channel catalog_pageAAAAAAAAAAOBAAAA                                      .00                                 17693.29                                -15227.30
+catalog channel catalog_pageAAAAAAAAAAPBAAAA                                      .00                                 10868.16                                 -6337.12
+catalog channel catalog_pageAAAAAAAAABABAAAA                                      .00                                 16355.61                                 -9694.78
+catalog channel catalog_pageAAAAAAAAABACAAAA                                      .00                                  8085.58                                 -3365.58
+catalog channel catalog_pageAAAAAAAAABFBAAAA                                      .00                                 18757.80                                  -657.64
+catalog channel catalog_pageAAAAAAAAABLBAAAA                                      .00                                296793.10                               -171567.37
+catalog channel catalog_pageAAAAAAAAABMBAAAA                                      .00                                 26948.53                                -15443.46
+catalog channel catalog_pageAAAAAAAAABNBAAAA                                      .00                                 20995.32                                -10323.62
+catalog channel catalog_pageAAAAAAAAABOAAAAA                                      .00                                  8554.77                                 -6392.59
+catalog channel catalog_pageAAAAAAAAABOBAAAA                                      .00                                  2614.32                                 -3403.16
+catalog channel catalog_pageAAAAAAAAABPBAAAA                                      .00                                  5360.79                                 -1753.35
+catalog channel catalog_pageAAAAAAAAACABAAAA                                      .00                                 19719.93                                -10413.67
+catalog channel catalog_pageAAAAAAAAACACAAAA                                      .00                                  7651.62                                 -4148.41
+catalog channel catalog_pageAAAAAAAAACLBAAAA                                      .00                                257135.72                               -143058.17
+catalog channel catalog_pageAAAAAAAAACMBAAAA                                      .00                                 17933.90                                -15037.23
+catalog channel catalog_pageAAAAAAAAACNBAAAA                                      .00                                 17655.41                                -13127.95
+catalog channel catalog_pageAAAAAAAAACOAAAAA                                      .00                                 31908.44                                -17904.92
+catalog channel catalog_pageAAAAAAAAACOBAAAA                                      .00                                 10979.75                                 -6935.97
+catalog channel catalog_pageAAAAAAAAACPBAAAA                                      .00                                 10567.76                                 -4090.12
+catalog channel catalog_pageAAAAAAAAADACAAAA                                      .00                                  5253.89                                 -2769.67
+catalog channel catalog_pageAAAAAAAAADLBAAAA                                      .00                                 76452.30                                -41949.79
+catalog channel catalog_pageAAAAAAAAADMBAAAA                                      .00                                 61667.82                                -36266.73
+catalog channel catalog_pageAAAAAAAAADNBAAAA                                      .00                                 20184.59                                -14786.62
+catalog channel catalog_pageAAAAAAAAADOAAAAA                                      .00                                 26368.41                                -16026.68
+catalog channel catalog_pageAAAAAAAAADOBAAAA                                      .00                                 23070.00                                -15612.61
+catalog channel catalog_pageAAAAAAAAADPBAAAA                                      .00                                  4230.90                                 -3591.54
+catalog channel catalog_pageAAAAAAAAAEACAAAA                                      .00                                   238.92                                  -272.41
+catalog channel catalog_pageAAAAAAAAAEFBAAAA                                      .00                                   700.31                                  -237.71
+catalog channel catalog_pageAAAAAAAAAELBAAAA                                      .00                                 65933.19                                -40495.19
+catalog channel catalog_pageAAAAAAAAAEMBAAAA                                      .00                                 41152.18                                -21857.48
+catalog channel catalog_pageAAAAAAAAAENBAAAA                                      .00                                 10499.76                                 -3596.45
+catalog channel catalog_pageAAAAAAAAAEOAAAAA                                      .00                                 27798.22                                -24148.39
+catalog channel catalog_pageAAAAAAAAAEOBAAAA                                      .00                                 21015.62                                -10651.64
+catalog channel catalog_pageAAAAAAAAAEPBAAAA                                      .00                                 10270.42                                 -3645.03
+catalog channel catalog_pageAAAAAAAAAFACAAAA                                      .00                                   530.92                                  -419.06
+catalog channel catalog_pageAAAAAAAAAFFBAAAA                                      .00                                 20078.86                                 -9985.89
+catalog channel catalog_pageAAAAAAAAAFLBAAAA                                      .00                                 69970.50                                -45072.27
+catalog channel catalog_pageAAAAAAAAAFMBAAAA                                      .00                                 34331.07                                -16887.50
+catalog channel catalog_pageAAAAAAAAAFNBAAAA                                      .00                                 24606.99                                 -9192.81
+catalog channel catalog_pageAAAAAAAAAFOAAAAA                                      .00                                 30098.81                                -14241.64
+catalog channel catalog_pageAAAAAAAAAFOBAAAA                                      .00                                 21332.99                                -12013.08
+catalog channel catalog_pageAAAAAAAAAFPBAAAA                                      .00                                 10226.85                                 -5713.90
+catalog channel catalog_pageAAAAAAAAAGFBAAAA                                      .00                                  9078.24                                 -4110.71
+catalog channel catalog_pageAAAAAAAAAGLBAAAA                                      .00                                 67823.29                                -42236.83
+catalog channel catalog_pageAAAAAAAAAGMBAAAA                                      .00                                 28320.71                                -15890.19
+catalog channel catalog_pageAAAAAAAAAGNBAAAA                                      .00                                 15207.28                                -11242.52
+catalog channel catalog_pageAAAAAAAAAGOAAAAA                                      .00                                 26529.36                                -13668.22
+catalog channel catalog_pageAAAAAAAAAGOBAAAA                                      .00                                 23000.69                                 -9697.14
+catalog channel catalog_pageAAAAAAAAAGPBAAAA                                      .00                                 10015.25                                 -4415.03
+catalog channel catalog_pageAAAAAAAAAHABAAAA                                      .00                                   460.04                                  -439.65
+catalog channel catalog_pageAAAAAAAAAHFBAAAA                                      .00                                 13015.43                                 -9899.35
+catalog channel catalog_pageAAAAAAAAAHLBAAAA                                      .00                                 98256.76                                -53189.48
+catalog channel catalog_pageAAAAAAAAAHMBAAAA                                      .00                                 54775.22                                -31106.30
+catalog channel catalog_pageAAAAAAAAAHNBAAAA                                      .00                                 15438.92                                 -8125.87
+catalog channel catalog_pageAAAAAAAAAHOAAAAA                                      .00                                 28907.70                                -21132.90
+catalog channel catalog_pageAAAAAAAAAHOBAAAA                                      .00                                 20711.87                                -10033.43
+catalog channel catalog_pageAAAAAAAAAHPAAAAA                                      .00                                 12053.12                                 -7046.22
+catalog channel catalog_pageAAAAAAAAAHPBAAAA                                      .00                                  4531.75                                 -4464.70
+catalog channel catalog_pageAAAAAAAAAIFBAAAA                                      .00                                  6261.47                                 -3525.68
+catalog channel catalog_pageAAAAAAAAAIKBAAAA                                      .00                                290217.93                               -162248.85
+catalog channel catalog_pageAAAAAAAAAILBAAAA                                      .00                                 84072.50                                -34435.05
+catalog channel catalog_pageAAAAAAAAAIMBAAAA                                      .00                                 23104.70                                -19134.17
+catalog channel catalog_pageAAAAAAAAAINBAAAA                                      .00                                 16991.67                                -14839.81
+catalog channel catalog_pageAAAAAAAAAIOAAAAA                                      .00                                 24709.70                                -15519.65
+catalog channel catalog_pageAAAAAAAAAIOBAAAA                                      .00                                 11665.64                                -15942.33
+catalog channel catalog_pageAAAAAAAAAIPAAAAA                                      .00                                  9457.13                                 -8241.28
+catalog channel catalog_pageAAAAAAAAAIPBAAAA                                      .00                                 13586.35                                 -5220.54
+catalog channel catalog_pageAAAAAAAAAJFBAAAA                                      .00                                  7465.54                                 -7460.00
+catalog channel catalog_pageAAAAAAAAAJKBAAAA                                      .00                                250527.31                               -154185.80
+catalog channel catalog_pageAAAAAAAAAJLBAAAA                                      .00                                105145.49                                -70261.14
+catalog channel catalog_pageAAAAAAAAAJMBAAAA                                      .00                                 37726.53                                -14532.61
+catalog channel catalog_pageAAAAAAAAAJNBAAAA                                      .00                                 29174.55                                -12805.98
+catalog channel catalog_pageAAAAAAAAAJOAAAAA                                      .00                                 21613.61                                -18796.42
+catalog channel catalog_pageAAAAAAAAAJOBAAAA                                      .00                                  9999.96                                 -9048.13
+catalog channel catalog_pageAAAAAAAAAJPAAAAA                                      .00                                 11416.30                                -13550.34
+catalog channel catalog_pageAAAAAAAAAJPBAAAA                                      .00                                  6653.42                                 -2873.40
+catalog channel catalog_pageAAAAAAAAAKABAAAA                                      .00                                  1593.00                                  -268.99
+catalog channel catalog_pageAAAAAAAAAKEBAAAA                                      .00                                  1657.04                                 -1600.66
+catalog channel catalog_pageAAAAAAAAAKFBAAAA                                      .00                                  4488.01                                 -3503.10
+catalog channel catalog_pageAAAAAAAAAKKBAAAA                                      .00                                317816.42                               -180565.61
+catalog channel catalog_pageAAAAAAAAAKLBAAAA                                      .00                                 86398.36                                -38986.12
+catalog channel catalog_pageAAAAAAAAAKMBAAAA                                      .00                                 57144.60                                -39875.10
+catalog channel catalog_pageAAAAAAAAAKNBAAAA                                      .00                                 23192.52                                -11849.15
+catalog channel catalog_pageAAAAAAAAAKOAAAAA                                      .00                                 32953.08                                -14209.57
+catalog channel catalog_pageAAAAAAAAAKOBAAAA                                      .00                                  1815.41                                 -1394.92
+catalog channel catalog_pageAAAAAAAAAKPAAAAA                                      .00                                  5510.10                                 -5963.62
+catalog channel catalog_pageAAAAAAAAAKPBAAAA                                      .00                                  5563.96                                 -1514.29
+catalog channel catalog_pageAAAAAAAAALABAAAA                                      .00                                      .00                                  -139.70
+catalog channel catalog_pageAAAAAAAAALEBAAAA                                      .00                                   193.08                                  -145.23
+catalog channel catalog_pageAAAAAAAAALFBAAAA                                      .00                                 12076.65                                 -5973.42
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 7601 ms,  elapsed time = 20356 ms.
+state cnt        
+----- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 7 ms,  elapsed time = 9 ms.
+i_item_id        agg1        agg2                                     agg3                                     agg4                                    
+---------------- ----------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+s_store_name                                                                               
+-------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 46639 ms,  elapsed time = 23798 ms.
+bucket1                                  bucket2                                  bucket3                                  bucket4                                  bucket5                                 
+---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+                                    NULL                                     NULL                                     NULL                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 1 ms,  elapsed time = 2 ms.
+cd_gender cd_marital_status cd_education_status  cnt1        cd_purchase_estimate cnt2        cd_credit_rating cnt3        cd_dep_count cnt4        cd_dep_employed_count cnt5        cd_dep_college_count cnt6       
+--------- ----------------- -------------------- ----------- -------------------- ----------- ---------------- ----------- ------------ ----------- --------------------- ----------- -------------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+customer_id      customer_first_name  customer_last_name             customer_birth_country
+---------------- -------------------- ------------------------------ ----------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              i_category                                         i_class                                            i_current_price itemrevenue                              revenueratio                            
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+                                                                                                                                      
+----------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+       NULL                                     NULL                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+channel i_brand_id  i_class_id  i_category_id                                                     
+------- ----------- ----------- ------------- ---------------------------------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+ty_channel ty_brand    ty_class    ty_category ty_sales                                 ty_number_sales ly_channel ly_brand    ly_class    ly_category ly_sales                                 ly_number_sales
+---------- ----------- ----------- ----------- ---------------------------------------- --------------- ---------- ----------- ----------- ----------- ---------------------------------------- ---------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 12 ms,  elapsed time = 12 ms.
+ca_zip                                             
+---------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+order count total shipping cost                      total net profit                        
+----------- ---------------------------------------- ----------------------------------------
+          0                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              s_state store_sales_quantitycount store_sales_quantityave store_sales_quantitystdev store_sales_quantitycov  store_returns_quantitycount store_returns_quantityave store_returns_quantitystdev store_returns_quantitycov catalog_sales_quantitycount catalog_sales_quantityave catalog_sales_quantitystdev catalog_sales_quantitycov
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------------------------- ----------------------- ------------------------- ------------------------ --------------------------- ------------------------- --------------------------- ------------------------- --------------------------- ------------------------- --------------------------- -------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        ca_country           ca_state ca_county                      agg1                                     agg2                                     agg3                                     agg4                                     agg5                                     agg6                                     agg7                                    
+---------------- -------------------- -------- ------------------------------ ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+brand_id    brand                                              i_manufact_id i_manufact                                         ext_price                               
+----------- -------------------------------------------------- ------------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 4 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              i_category                                         i_class                                            i_current_price itemrevenue                              revenueratio                            
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+w_warehouse_name     i_item_id        inv_before  inv_after  
+-------------------- ---------------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_product_name                                     i_brand                                            i_class                                            i_category                                         qoh        
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+                                        
+----------------------------------------
+                                    NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         sales                                   
+------------------------------ -------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         s_store_name                                       paid                                    
+------------------------------ -------------------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         s_store_name                                       paid                                    
+------------------------------ -------------------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              s_store_id       s_store_name                                       store_sales_profit                       store_returns_loss                       catalog_sales_profit                    
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------- -------------------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        agg1        agg2                                     agg3                                     agg4                                    
+---------------- ----------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        s_state g_state agg1        agg2                                     agg3                                     agg4                                    
+---------------- ------- ------- ----------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 4 ms,  elapsed time = 0 ms.
+B1_LP                                    B1_CNT      B1_CNTD     B2_LP                                    B2_CNT      B2_CNTD     B3_LP                                    B3_CNT      B3_CNTD     B4_LP                                    B4_CNT      B4_CNTD     B5_LP                                    B5_CNT      B5_CNTD     B6_LP                                    B6_CNT      B6_CNTD    
+---------------------------------------- ----------- ----------- ---------------------------------------- ----------- ----------- ---------------------------------------- ----------- ----------- ---------------------------------------- ----------- ----------- ---------------------------------------- ----------- ----------- ---------------------------------------- ----------- -----------
+                                    NULL           0           0                                     NULL           0           0                                     NULL           0           0                                     NULL           0           0                                     NULL           0           0                                     NULL           0           0
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              s_store_id       s_store_name                                       store_sales_quantity store_returns_quantity catalog_sales_quantity
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------- -------------------------------------------------- -------------------- ---------------------- ----------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_customer_id    c_salutation c_first_name         c_last_name                    c_preferred_cust_flag c_birth_day c_birth_month c_birth_year c_birth_country      c_login       c_email_address                                    c_last_review_date_sk ctr_total_return                        
+---------------- ------------ -------------------- ------------------------------ --------------------- ----------- ------------- ------------ -------------------- ------------- -------------------------------------------------- --------------------- ----------------------------------------
+AAAAAAAAAAADIBAA Ms.          Alex                 Wilson                         Y                               2            10         1991 AZERBAIJAN           NULL          Alex.Wilson@KUDtMIIQOlcPD9TH.edu                                 2452629                                  7120.40
+AAAAAAAAAAALFBAA Mrs.         Valerie              Shumate                        N                               2            12         1936 INDIA                NULL          Valerie.Shumate@CbghqS6fCuz.org                                  2452337                                  7557.55
+AAAAAAAAAAAOIBAA Miss         Sara                 Goodman                        Y                              18            10         1985 GIBRALTAR            NULL          Sara.Goodman@i.edu                                               2452447                                  4013.08
+AAAAAAAAAABDJAAA Mr.          Larry                Lozano                         Y                              18             7         1988 ECUADOR              NULL          Larry.Lozano@DMiTOYB.edu                                         2452560                                  3997.80
+AAAAAAAAAABMFBAA Dr.          Iva                  Palma                          N                              27             6         1959 GUYANA               NULL          Iva.Palma@qy9b.edu                                               2452413                                  1791.09
+AAAAAAAAAABMKAAA Miss         Veronica             Lopez                          N                              17             5         1974 UKRAINE              NULL          Veronica.Lopez@8XFYDE1CzBZls.edu                                 2452476                                  1616.04
+AAAAAAAAAACDBAAA Ms.          Kate                 Rivera                         Y                              25            10         1950 PAKISTAN             NULL          Kate.Rivera@VPnOjEgtPBK5Uy05c8.org                               2452312                                  2484.36
+AAAAAAAAAACFMBAA Sir          Thomas               Richardson                     N                              28             3         1951 MALTA                NULL          Thomas.Richardson@KX3VI7YQY24m.edu                               2452419                                  4217.40
+AAAAAAAAAACHABAA Mrs.         Jessica              Matteson                       Y                               9             8         1992 LEBANON              NULL          Jessica.Matteson@txTzihjqfB8B.com                                2452581                                  3386.04
+AAAAAAAAAADACBAA Dr.          Rosemary             Turner                         Y                               7            12         1979 SERBIA               NULL          Rosemary.Turner@7qJmt.com                                        2452643                                  1891.34
+AAAAAAAAAADAGBAA Mrs.         Joann                Black                          N                              28             9         1990 RUSSIAN FEDERATION   NULL          Joann.Black@sKOn7fjXJ3.edu                                       2452367                                  7599.60
+AAAAAAAAAADGIBAA Mr.          Robert               Bryant                         Y                              17             6         1986 BANGLADESH           NULL          Robert.Bryant@OLs9NfQgEoUs.edu                                   2452286                                  3787.41
+AAAAAAAAAAECGBAA Mr.          Maurice              Caldwell                       N                               7            12         1981 CZECH REPUBLIC       NULL          Maurice.Caldwell@NUZP2Z.edu                                      2452643                                  2332.95
+AAAAAAAAAAEEAAAA Ms.          Louise               Hayden                         N                              10             2         1935 VANUATU              NULL          Louise.Hayden@uNzCq168j4.com                                     2452415                                  2853.96
+AAAAAAAAAAEEFAAA Miss         Amanda               Cintron                        Y                              28             2         1977 MOZAMBIQUE           NULL          Amanda.Cintron@mpJPiHl5G.org                                     2452329                                  2631.42
+AAAAAAAAAAFCOBAA Dr.          Tracy                Espinosa                       Y                               8            10         1953 GRENADA              NULL          Tracy.Espinosa@m2MHGZF.com                                       2452464                                  2469.51
+AAAAAAAAAAFIMAAA Sir          Walter               Turner                         N                              29             5         1977 SAN MARINO           NULL          Walter.Turner@7bLVqOaCf9f.com                                    2452646                                  1709.10
+AAAAAAAAAAGAEAAA Ms.          Cheryl               Bentley                        N                              11             5         1979 JORDAN               NULL          Cheryl.Bentley@2BEoUAlKPr.com                                    2452368                                  4277.25
+AAAAAAAAAAGJOAAA Mr.          James                Atwell                         Y                              22             6         1952 OMAN                 NULL          James.Atwell@U.edu                                               2452548                                  2933.55
+AAAAAAAAAAGONAAA Mr.          Jason                Nall                           Y                              29            11         1987 KENYA                NULL          Jason.Nall@R0guDMMUcnXKnGKqm.com                                 2452532                                  8851.53
+AAAAAAAAAAHFJAAA Miss         Olga                 Wood                           N                              20            12         1954 HONG KONG            NULL          Olga.Wood@dDZ6arfYd.com                                          2452459                                  5628.10
+AAAAAAAAAAHJGAAA Ms.          Helen                Johnson                        Y                              27            11         1973 CZECH REPUBLIC       NULL          Helen.Johnson@JVn7ScU2.org                                       2452327                                  3488.69
+AAAAAAAAAAHMJBAA Dr.          Bobby                Baldwin                        N                               1             3         1961 GEORGIA              NULL          Bobby.Baldwin@oNrIoP4aLSYp.edu                                   2452419                                  3065.44
+AAAAAAAAAAIBJBAA NULL         NULL                 NULL                           NULL                         NULL            12         NULL MAURITIUS            NULL          NULL                                                             2452559                                  2364.86
+AAAAAAAAAAJLGBAA Miss         Elvira               Page                           Y                              29             1         1939 MAYOTTE              NULL          Elvira.Page@VjljDqA.com                                          2452627                                  1817.20
+AAAAAAAAAAJNGBAA NULL         NULL                 Harris                         Y                            NULL          NULL         1964 BULGARIA             NULL          Jeffrey.Harris@pX7h9G6ciYfkSH.com                                   NULL                                  2900.88
+AAAAAAAAAAKKEAAA Sir          Wayne                Cook                           Y                              31             1         1933 ESTONIA              NULL          Wayne.Cook@KGAmbxoJmzLKeR4v.com                                  2452473                                  4924.66
+AAAAAAAAAALAFAAA Mr.          Brian                Tiller                         N                              19             4         1948 GUINEA               NULL          Brian.Tiller@uRL.com                                             2452553                                  3096.60
+AAAAAAAAAALJOAAA Miss         Matilda              Olson                          N                              26             8         1982 AUSTRIA              NULL          Matilda.Olson@bs1voy6UShX.edu                                    2452578                                 10710.00
+AAAAAAAAAAMGIAAA Miss         Pamela               Smith                          N                              27            11         1950 BOTSWANA             NULL          Pamela.Smith@GT.org                                              2452559                                  2407.54
+AAAAAAAAAAMLCBAA Miss         Barbara              Ragsdale                       N                              11             4         1982 LEBANON              NULL          Barbara.Ragsdale@7TqJ1TfHtgDD.com                                2452329                                  3242.58
+AAAAAAAAAAMNLBAA Miss         Alice                Cox                            N                               9             3         1966 MAURITIUS            NULL          Alice.Cox@O.edu                                                  2452419                                  1699.11
+AAAAAAAAAANCOBAA Mr.          Daryl                Clay                           Y                              23            11         1939 SINGAPORE            NULL          Daryl.Clay@Im1yHE.edu                                            2452406                                  9223.65
+AAAAAAAAAANFDBAA Miss         Elva                 Lemons                         Y                              28             3         1927 GUATEMALA            NULL          Elva.Lemons@iTIkTZtFJmlJ.edu                                     2452320                                  3259.20
+AAAAAAAAAANFGAAA NULL         NULL                 Ryan                           N                            NULL          NULL         1964 NULL                 NULL          NULL                                                                NULL                                 11112.22
+AAAAAAAAAANJHAAA Miss         Amy                  Troy                           N                              30            12         1988 GABON                NULL          Amy.Troy@cBanbypD7M94J9H7Je.com                                  2452307                                  2425.30
+AAAAAAAAAANKCBAA Dr.          Michael              Cowley                         N                              24             1         1958 GREECE               NULL          Michael.Cowley@d366DivJ1rSPd.edu                                 2452646                                  1646.40
+AAAAAAAAAAPDFAAA Dr.          James                Smith                          N                               8             1         1978 EGYPT                NULL          James.Smith@PQIJmheyEyzGog.edu                                   2452621                                  2313.98
+AAAAAAAAABAENAAA Miss         Christine            Rogers                         Y                              17             2         1973 MARTINIQUE           NULL          Christine.Rogers@dsyvagv.edu                                     2452614                                  2160.60
+AAAAAAAAABAIMAAA Mr.          James                Ross                           N                               4             4         1963 PALAU                NULL          James.Ross@tCRoQ2Gp.com                                          2452479                                  1580.40
+AAAAAAAAABAIMAAA Mr.          James                Ross                           N                               4             4         1963 PALAU                NULL          James.Ross@tCRoQ2Gp.com                                          2452479                                  4424.20
+AAAAAAAAABAKGAAA NULL         NULL                 NULL                           N                              23             3         1975 MALI                 NULL          Annie.Hurd@Qij1.edu                                                 NULL                                  2533.84
+AAAAAAAAABAKHBAA Mrs.         Ebony                Nichols                        N                              28             6         1963 TURKEY               NULL          Ebony.Nichols@ycmVoN.edu                                         2452576                                  2414.70
+AAAAAAAAABBDHAAA Sir          Charles              Bobo                           N                              23             9         1961 HAITI                NULL          Charles.Bobo@ehutsTtz.org                                        2452383                                  1904.24
+AAAAAAAAABBIIAAA Mr.          John                 Mays                           N                              15             2         1991 YEMEN                NULL          John.Mays@OOYi2oAOJ8jh5Ue.org                                    2452367                                  2760.00
+AAAAAAAAABBLBAAA Mrs.         Charlene             Wright                         Y                               2             2         1982 GUYANA               NULL          Charlene.Wright@R5FXQaZ.edu                                      2452467                                  1674.56
+AAAAAAAAABCIFAAA Ms.          Louise               Crawford                       Y                               5             2         1991 SENEGAL              NULL          Louise.Crawford@myp9NiSlSspeI4x.org                              2452332                                  3697.32
+AAAAAAAAABCNHAAA Ms.          Loan                 Roberts                        N                              27             9         1949 BERMUDA              NULL          Loan.Roberts@bkbez8.edu                                          2452612                                  1714.50
+AAAAAAAAABDANAAA Dr.          Mark                 Bennett                        N                              18             1         1973 SAMOA                NULL          Mark.Bennett@xrdns8d0mA.edu                                      2452580                                  3390.10
+AAAAAAAAABDOBAAA Mr.          Juan                 Mcmaster                       N                               8             2         1954 PARAGUAY             NULL          Juan.Mcmaster@G1.org                                             2452379                                  3505.04
+AAAAAAAAABEKNAAA Ms.          Amy                  Taylor                         Y                              22             6         1957 CÔTE D'IVOIRE        NULL          Amy.Taylor@hnHCMg23opAf.org                                      2452324                                  2076.24
+AAAAAAAAABFGIAAA Dr.          Ellen                Pogue                          N                              24            11         1924 GREENLAND            NULL          Ellen.Pogue@NrcttELj.edu                                         2452389                                  1646.92
+AAAAAAAAABFMJBAA Mrs.         Kimberly             Wagner                         N                              22            11         1926 NEW CALEDONIA        NULL          Kimberly.Wagner@jpgC8IQy.org                                     2452589                                  2647.68
+AAAAAAAAABGFFAAA Miss         Sheryl               Barnes                         N                              18             7         1982 EL SALVADOR          NULL          Sheryl.Barnes@SSXsE5S0KF0b.com                                   2452630                                  2830.24
+AAAAAAAAABGFFAAA Miss         Sheryl               Barnes                         N                              18             7         1982 EL SALVADOR          NULL          Sheryl.Barnes@SSXsE5S0KF0b.com                                   2452630                                  2985.00
+AAAAAAAAABGIBBAA Sir          NULL                 Gibson                         NULL                         NULL             8         1934 NULL                 NULL          NULL                                                             2452405                                  3513.36
+AAAAAAAAABHGOAAA Sir          Milton               Adkins                         N                              25             2         1976 SLOVENIA             NULL          Milton.Adkins@N43xr.org                                          2452449                                  4432.00
+AAAAAAAAABHHAAAA Sir          Jay                  Clark                          N                               4             4         1983 SPAIN                NULL          Jay.Clark@J.org                                                  2452397                                  1877.49
+AAAAAAAAABHJDBAA NULL         Margaret             NULL                           Y                              25          NULL         1946 NULL                 NULL          NULL                                                                NULL                                  3890.14
+AAAAAAAAABHKJBAA Ms.          Cynthia              Kirkland                       N                              25             8         1949 RUSSIAN FEDERATION   NULL          Cynthia.Kirkland@AHtiARP3HvJ.com                                 2452361                                  5038.32
+AAAAAAAAABIELAAA Sir          Eugene               Moore                          N                              12            11         1941 MALDIVES             NULL          Eugene.Moore@Jt3af.com                                           2452366                                  2325.60
+AAAAAAAAABKGHBAA Dr.          James                Clark                          Y                              17             9         1943 JERSEY               NULL          James.Clark@pSQsgb5.edu                                          2452406                                  1955.72
+AAAAAAAAABLHDAAA Sir          Jeffery              Mcdonald                       Y                               3             4         1977 ALBANIA              NULL          Jeffery.Mcdonald@5iUyM.org                                       2452617                                 12394.50
+AAAAAAAAABLJKAAA Mr.          Daniel               Silva                          N                              26             4         1978 CZECH REPUBLIC       NULL          Daniel.Silva@vd6yryoY8zfRE74K.org                                2452587                                  2779.92
+AAAAAAAAABLKOAAA Mrs.         Ashley               Byrnes                         Y                              14             9         1978 PORTUGAL             NULL          Ashley.Byrnes@r56.org                                            2452574                                  4571.64
+AAAAAAAAABMGBAAA Miss         Lourdes              Johnson                        N                               9             8         1963 TURKEY               NULL          Lourdes.Johnson@Btkqq2.org                                       2452407                                  3144.64
+AAAAAAAAABMJCBAA Miss         Natalie              Cho                            Y                               8             8         1982 NEPAL                NULL          Natalie.Cho@uFKuTyFSxeSGaRLUL.edu                                2452533                                  6032.40
+AAAAAAAAABMOBBAA Dr.          Roy                  Patterson                      Y                               6             3         1924 CHINA                NULL          Roy.Patterson@LbEnQABAYYM4BIBB.edu                               2452333                                 10515.18
+AAAAAAAAABPODBAA Ms.          Cassandra            Nelson                         N                              16             7         1952 GUERNSEY             NULL          Cassandra.Nelson@PxejMojeY.org                                   2452529                                  2113.24
+AAAAAAAAABPOLAAA Ms.          Margaret             Broome                         N                              25             1         1933 KAZAKHSTAN           NULL          Margaret.Broome@1KbvCltBGmlaI.com                                2452520                                  4893.40
+AAAAAAAAACAALBAA Mr.          John                 Pena                           N                              10             3         1974 TONGA                NULL          John.Pena@1N3u1QXNP7gUi.edu                                      2452515                                  1628.09
+AAAAAAAAACBBKAAA Sir          Marshall             Truong                         N                              25             4         1955 ETHIOPIA             NULL          Marshall.Truong@ccY4qd5MDtPRyna.com                              2452639                                  3039.66
+AAAAAAAAACBHKBAA Miss         Adam                 Rose                           Y                               3             5         1969 BURKINA FASO         NULL          Adam.Rose@yB34.edu                                               2452487                                  6423.75
+AAAAAAAAACBHLAAA Mr.          James                Woods                          N                              19             9         1976 VIET NAM             NULL          James.Woods@LT.org                                               2452635                                  1685.17
+AAAAAAAAACBJOAAA Mr.          Howard               Hill                           N                              12             8         1959 GAMBIA               NULL          Howard.Hill@xh.edu                                               2452571                                  4746.68
+AAAAAAAAACCDEAAA Miss         Ruby                 Chandler                       Y                               4             7         1976 ANGUILLA             NULL          Ruby.Chandler@b2etn11sYuy.com                                    2452498                                  1847.22
+AAAAAAAAACCDEAAA Miss         Ruby                 Chandler                       Y                               4             7         1976 ANGUILLA             NULL          Ruby.Chandler@b2etn11sYuy.com                                    2452498                                  2203.88
+AAAAAAAAACDGFAAA Miss         Estella              Durham                         N                              17             2         1941 LEBANON              NULL          Estella.Durham@ArIx0j7HzbjMi4gC.edu                              2452530                                  3057.95
+AAAAAAAAACDIJAAA NULL         NULL                 Cummings                       N                            NULL          NULL         NULL HAITI                NULL          Cathy.Cummings@IacxOoToZfxC3z8.edu                                  NULL                                  1903.11
+AAAAAAAAACDODAAA Miss         Rosalina             Mcclellan                      Y                              29             3         1966 KENYA                NULL          Rosalina.Mcclellan@AiySoh3Ee7ZlYg.edu                            2452509                                  6151.44
+AAAAAAAAACEAAAAA Sir          Wilbert              English                        Y                              18             5         1961 BHUTAN               NULL          Wilbert.English@jBSrHTANjj.edu                                   2452511                                  4994.10
+AAAAAAAAACEBNAAA Ms.          Andrea               Little                         Y                              30             5         1939 CHINA                NULL          Andrea.Little@9blxs.edu                                          2452585                                  3393.60
+AAAAAAAAACFDMBAA Miss         Melisa               Carden                         N                              23             9         1935 BARBADOS             NULL          Melisa.Carden@HsnndAGipK.com                                     2452349                                  5502.75
+AAAAAAAAACFJLAAA Mr.          Horace               Martin                         Y                               2            11         1961 GREENLAND            NULL          Horace.Martin@VLNN4lTeIIsegbtIz.org                              2452349                                  2784.60
+AAAAAAAAACFKBBAA Sir          Mark                 Cannon                         Y                              13            10         1970 BARBADOS             NULL          Mark.Cannon@TRJpqrcFgQi.com                                      2452558                                  1588.14
+AAAAAAAAACFKBBAA Sir          Mark                 Cannon                         Y                              13            10         1970 BARBADOS             NULL          Mark.Cannon@TRJpqrcFgQi.com                                      2452558                                  2924.29
+AAAAAAAAACFKBBAA Sir          Mark                 Cannon                         Y                              13            10         1970 BARBADOS             NULL          Mark.Cannon@TRJpqrcFgQi.com                                      2452558                                  3068.78
+AAAAAAAAACFMIAAA Sir          Bernard              Stevens                        N                               8             5         1971 BELGIUM              NULL          Bernard.Stevens@3sSv54FTEcV.edu                                  2452425                                  1639.60
+AAAAAAAAACFOGBAA Mr.          Joe                  Moore                          Y                              20             8         1967 BOTSWANA             NULL          Joe.Moore@6DTXqRzNjazyou.edu                                     2452636                                  3828.25
+AAAAAAAAACGANBAA Mr.          James                Hanson                         N                              14             1         1971 QATAR                NULL          James.Hanson@t.org                                               2452510                                  5244.00
+AAAAAAAAACHEAAAA Miss         Donna                Ruiz                           Y                              22             4         1975 NIGERIA              NULL          Donna.Ruiz@IIqsG1RUhp1dp6iq0q.edu                                2452350                                  5374.72
+AAAAAAAAACHJCBAA Dr.          Dorothy              Little                         Y                              13             4         1975 SEYCHELLES           NULL          Dorothy.Little@y.org                                             2452497                                  2866.86
+AAAAAAAAACKIGAAA Miss         Ivonne               Hare                           Y                               2             7         1961 NIGER                NULL          Ivonne.Hare@Lzb.edu                                              2452403                                  3524.64
+AAAAAAAAACKPKBAA Miss         Donna                Robinson                       Y                              10            12         1973 SPAIN                NULL          Donna.Robinson@71.org                                            2452589                                  6742.98
+AAAAAAAAACLBJBAA Mrs.         Dawn                 Wilson                         N                              11            12         1936 HONDURAS             NULL          Dawn.Wilson@rY.edu                                               2452648                                 14088.60
+AAAAAAAAACLDCBAA Mr.          Marion               Layton                         N                              23             4         1944 KOREA, REPUBLIC OF   NULL          Marion.Layton@Ao.com                                             2452466                                  1575.08
+AAAAAAAAACLLIBAA Miss         Jennifer             Clark                          N                              31             8         1933 HONG KONG            NULL          Jennifer.Clark@4m51q.edu                                         2452289                                  2069.77
+AAAAAAAAACLNIAAA Sir          David                Vasquez                        N                              15             8         1990 RWANDA               NULL          David.Vasquez@YAoGuSm9A3Mi.edu                                   2452305                                  3161.55
+AAAAAAAAACMFDBAA Mr.          Otha                 Wiley                          N                              18             5         1925 TUVALU               NULL          Otha.Wiley@vPztEoTXkKp2GPz.com                                   2452625                                  2584.20
+AAAAAAAAACMHCBAA Sir          Leo                  Cruz                           Y                              20             5         1924 PALAU                NULL          Leo.Cruz@KYF3fzzyiY.org                                          2452452                                  1647.27
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 16880 ms,  elapsed time = 12047 ms.
+ca_county                      d_year      web_q1_q2_increase                       store_q1_q2_increase                     web_q2_q3_increase                       store_q2_q3_increase                    
+------------------------------ ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 3 ms,  elapsed time = 1 ms.
+excess discount amount                  
+----------------------------------------
+                                    NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_manufact_id total_sales                             
+------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         c_salutation c_preferred_cust_flag ss_ticket_number cnt        
+------------------------------ -------------------- ------------ --------------------- ---------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+ca_state cd_gender cd_marital_status cd_dep_count cnt1                                            cd_dep_employed_count cnt2                                            cd_dep_college_count cnt3                                           
+-------- --------- ----------------- ------------ ----------- ----------- ----------- ----------- --------------------- ----------- ----------- ----------- ----------- -------------------- ----------- ----------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+gross_margin                             i_category                                         i_class                                            lochierarchy rank_within_parent  
+---------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------ --------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 2 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              i_current_price
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+           
+-----------
+          0
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+w_warehouse_sk i_item_sk   d_moy       mean        cov                      w_warehouse_sk i_item_sk   d_moy       mean        cov                     
+-------------- ----------- ----------- ----------- ------------------------ -------------- ----------- ----------- ----------- ------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+w_warehouse_sk i_item_sk   d_moy       mean        cov                      w_warehouse_sk i_item_sk   d_moy       mean        cov                     
+-------------- ----------- ----------- ----------- ------------------------ -------------- ----------- ----------- ----------- ------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+w_state i_item_id        sales_before                             sales_after                             
+------- ---------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_product_name                                    
+--------------------------------------------------
+ableationablebarese                               
+ableeingbareingantiought                          
+ableeingoughtableeing                             
+ableeseantieingable                               
+ableprieseableese                                 
+antieseantibaration                               
+antin stcallycallycally                           
+antin stoughtbarationought                        
+antioughtn stoughtese                             
+ationableeseoughtese                              
+ationantieingablen stought                        
+ationantioughtableationought                      
+ationantioughtbarcallyought                       
+ationationcallybarableought                       
+ationcallyeingantipri                             
+ationeingoughtn stanti                            
+ationn stn stpriationought                        
+ationoughteingableationought                      
+barbarbarableought                                
+barbarbareseoughtought                            
+barcallyoughtationought                           
+callybarn stoughteseought                         
+callyn stn stantipriought                         
+eingantiantibarn st                               
+eingantieingablen stought                         
+eingantioughtableationought                       
+eingantioughtbarcallyought                        
+eingbarprioughtantiought                          
+eingcallycallyationpri                            
+eingn stationeseable                              
+eseantieingcallyn stought                         
+eseationationeingese                              
+n stablepriesecally                               
+n stationationanticallyought                      
+n stesecallyn stanti                              
+n stn stn stprioughtought                         
+n stprin stationcallyought                        
+oughtantibarprin st                               
+oughtbareingoughtationought                       
+oughtcallyableesen stought                        
+oughteingprioughtbarable                          
+oughteseationbareing                              
+oughtoughtableeingantiought                       
+oughtpricallyn stanti                             
+priationprin stoughtought                         
+pribareingpripriought                             
+pricallyationeseought                             
+prieseoughtn stought                              
+priprin stn steseought                            
+
+(49 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 325215 ms,  elapsed time = 164238 ms.
+d_year      i_category_id i_category                                                                                 
+----------- ------------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+s_store_name                                       s_store_id       sun_sales                                mon_sales                                tue_sales                                wed_sales                                thu_sales                                fri_sales                                sat_sales                               
+-------------------------------------------------- ---------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+rnk                  best_performing                                    worst_performing                                  
+-------------------- -------------------------------------------------- --------------------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+ca_zip     ca_city                                                                                              
+---------- ------------------------------------------------------------ ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         ca_city                                                      bought_city                                                  ss_ticket_number amt                                      profit                                  
+------------------------------ -------------------- ------------------------------------------------------------ ------------------------------------------------------------ ---------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+s_store_name                                       d_year      avg_monthly_sales                        sum_sales                                psum                                     nsum                                    
+-------------------------------------------------- ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 3 ms,  elapsed time = 1 ms.
+           
+-----------
+       NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+channel item        return_ratio                          return_rank          currency_rank       
+------- ----------- ------------------------------------- -------------------- --------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+s_store_name                                       s_company_id s_street_number s_street_name                                                s_street_type   s_suite_number s_city                                                       s_county                       s_state s_zip      30 days     31-60 days  61-90 days  91-120 days >120 days  
+-------------------------------------------------- ------------ --------------- ------------------------------------------------------------ --------------- -------------- ------------------------------------------------------------ ------------------------------ ------- ---------- ----------- ----------- ----------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+item_sk     d_date           web_sales                                store_sales                              web_cumulative                           store_cumulative                        
+----------- ---------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+d_year      brand_id    brand                                              ext_price                               
+----------- ----------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_manufact_id sum_sales                                avg_quarterly_sales                     
+------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+segment     num_customers segment_base
+----------- ------------- ------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 20 ms,  elapsed time = 18 ms.
+brand_id    brand                                              ext_price                               
+----------- -------------------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        total_sales                             
+---------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_brand                                            d_year      avg_monthly_sales                        sum_sales                                psum                                     nsum                                    
+-------------------------------------------------- ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+item_id          ss_item_rev                              ss_dev                                   cs_item_rev                              cs_dev                                   ws_item_rev                              ws_dev                                   average                                 
+---------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+s_store_name1                                      s_store_id1      d_week_seq1                                                                                                                                                                                                                                                                                               
+-------------------------------------------------- ---------------- ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 4 ms,  elapsed time = 1 ms.
+i_item_id        total_sales                             
+---------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+promotions                               total                                                                            
+---------------------------------------- ---------------------------------------- ----------------------------------------
+                                    NULL                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+                     sm_type                        web_name                                           30 days     31-60 days  61-90 days  91-120 days >120 days  
+-------------------- ------------------------------ -------------------------------------------------- ----------- ----------- ----------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_manager_id sum_sales                                avg_monthly_sales                       
+------------ ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+product_name                                       store_name                                         store_zip  b_street_number b_street_name                                                b_city                                                       b_zip      c_street_number c_street_name                                                c_city                                                       c_zip      syear       cnt         s11                                      s21                                      s31                                      s12                                      s22                                      s32                                      syear       cnt        
+-------------------------------------------------- -------------------------------------------------- ---------- --------------- ------------------------------------------------------------ ------------------------------------------------------------ ---------- --------------- ------------------------------------------------------------ ------------------------------------------------------------ ---------- ----------- ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+s_store_name                                       i_item_desc                                                                                                                                                                                              revenue                                  i_current_price i_wholesale_cost i_brand                                           
+-------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------- --------------- ---------------- --------------------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+w_warehouse_name     w_warehouse_sq_ft w_city                                                       w_county                       w_state w_country            ship_carriers         year        jan_sales                                feb_sales                                mar_sales                                apr_sales                                may_sales                                jun_sales                                jul_sales                                aug_sales                                sep_sales                                oct_sales                                nov_sales                                dec_sales                                jan_sales_per_sq_foot                    feb_sales_per_sq_foot                    mar_sales_per_sq_foot                    apr_sales_per_sq_foot                    may_sales_per_sq_foot                    jun_sales_per_sq_foot                    jul_sales_per_sq_foot                    aug_sales_per_sq_foot                    sep_sales_per_sq_foot                    oct_sales_per_sq_foot                    nov_sales_per_sq_foot                    dec_sales_per_sq_foot                    jan_net                                  feb_net                                  mar_net                                  apr_net                                  may_net                                  jun_net                                  jul_net                                  aug_net                                  sep_net                                  oct_net                                  nov_net                                  dec_net                                 
+-------------------- ----------------- ------------------------------------------------------------ ------------------------------ ------- -------------------- --------------------- ----------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 4 ms,  elapsed time = 0 ms.
+i_category                                         i_class                                            i_brand                                            i_product_name                                     d_year      d_qoy       d_moy       s_store_id       sumsales                                 rk                  
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ----------- ----------- ----------- ---------------- ---------------------------------------- --------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         ca_city                                                      bought_city                                                  ss_ticket_number extended_price                           extended_tax                             list_price                              
+------------------------------ -------------------- ------------------------------------------------------------ ------------------------------------------------------------ ---------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+cd_gender cd_marital_status cd_education_status  cnt1        cd_purchase_estimate cnt2        cd_credit_rating cnt3       
+--------- ----------------- -------------------- ----------- -------------------- ----------- ---------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+total_sum                                s_state s_county                       lochierarchy rank_within_parent  
+---------------------------------------- ------- ------------------------------ ------------ --------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+brand_id    brand                                              t_hour      t_minute    ext_price                               
+----------- -------------------------------------------------- ----------- ----------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_desc                                                                                                                                                                                              w_warehouse_name     d_week_seq  no_promo    promo       total_cnt  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------- ----------- ----------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name         c_salutation c_preferred_cust_flag ss_ticket_number cnt        
+------------------------------ -------------------- ------------ --------------------- ---------------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+customer_id      customer_first_name  customer_last_name            
+---------------- -------------------- ------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+prev_year   year        i_brand_id  i_class_id  i_category_id i_manufact_id prev_yr_cnt curr_yr_cnt sales_cnt_diff sales_amt_diff                          
+----------- ----------- ----------- ----------- ------------- ------------- ----------- ----------- -------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+channel col_name        d_year      d_qoy       i_category                                         sales_cnt   sales_amt                               
+------- --------------- ----------- ----------- -------------------------------------------------- ----------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+channel         id          sales                                    returns                                  profit                                  
+--------------- ----------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 6824 ms,  elapsed time = 34199 ms.
+ss_item_sk  ratio       store_qty   store_wholesale_cost                     store_sales_price                        other_chan_qty other_chan_wholesale_cost                other_chan_sales_price                  
+----------- ----------- ----------- ---------------------------------------- ---------------------------------------- -------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+c_last_name                    c_first_name                                        ss_ticket_number amt                                      profit                                  
+------------------------------ -------------------- ------------------------------ ---------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+channel         id                           sales                                    returns                                  profit                                  
+--------------- ---------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 2 ms,  elapsed time = 0 ms.
+c_customer_id    c_salutation c_first_name         c_last_name                    ca_street_number ca_street_name                                               ca_street_type  ca_suite_number ca_city                                                      ca_county                      ca_state ca_zip     ca_country           ca_gmt_offset ca_location_type     ctr_total_return                        
+---------------- ------------ -------------------- ------------------------------ ---------------- ------------------------------------------------------------ --------------- --------------- ------------------------------------------------------------ ------------------------------ -------- ---------- -------------------- ------------- -------------------- ----------------------------------------
+AAAAAAAAAAAEKBAA Sir          Wesley               Harris                         61               2nd                                                          Ct.             Suite 20        Brownsville                                                  El Dorado County               CA       99310      United States                -8.00 single family                                         2060.80
+AAAAAAAAAAAEKBAA Sir          Wesley               Harris                         61               2nd                                                          Ct.             Suite 20        Brownsville                                                  El Dorado County               CA       99310      United States                -8.00 single family                                         3226.63
+AAAAAAAAAAALHBAA Dr.          Rosa                 Mobley                         507              Church                                                       Road            Suite 400       Antioch                                                      Kern County                    CA       98605      United States                -8.00 single family                                         3834.01
+AAAAAAAAAAANMBAA Miss         Jaclyn               Gomez                          885              Sixth                                                        RD              Suite 460       Belmont                                                      Mariposa County                CA       90191      United States                -8.00 apartment                                             3947.66
+AAAAAAAAAACEABAA Dr.          William              Laney                          989              Forest Forest                                                Avenue          Suite F         Buena Vista                                                  Humboldt County                CA       95752      United States                -8.00 condo                                                 2553.14
+AAAAAAAAAACFLAAA Mr.          Salvador             Leonard                        274              Lincoln Pine                                                 Ct.             Suite I         Enterprise                                                   Ventura County                 CA       91757      United States                -8.00 apartment                                             2634.67
+AAAAAAAAAACJCAAA Mrs.         Carlene              Keith                          433              Mill Sycamore                                                Pkwy            NULL            NULL                                                         NULL                           CA       NULL       NULL                         -8.00 NULL                                                  2163.20
+AAAAAAAAAACKPAAA Sir          John                 Keeling                        693              Johnson                                                      ST              Suite 50        Mount Pleasant                                               Santa Barbara County           CA       91933      United States                -8.00 single family                                         6110.20
+AAAAAAAAAADCBBAA Dr.          Rupert               Cone                           886              2nd                                                          Boulevard       Suite 80        Springfield                                                  Ventura County                 CA       99303      United States                -8.00 single family                                         4117.29
+AAAAAAAAAAEBLBAA Mrs.         Deborah              Harris                         689              Hickory Pine                                                 Cir.            Suite 190       Salem                                                        San Benito County              CA       98048      United States                -8.00 apartment                                             5350.86
+AAAAAAAAAAEDBBAA Dr.          Nilda                Smith                          323              Sycamore View                                                Court           Suite Q         Glenwood                                                     Riverside County               CA       93511      United States                -8.00 condo                                                 3714.39
+AAAAAAAAAAEIFBAA Ms.          Sheila               Henson                         389              Elm Lincoln                                                  Drive           Suite 300       Union Hill                                                   Plumas County                  CA       97746      United States                -8.00 condo                                                 2939.06
+AAAAAAAAAAEIGAAA Dr.          Nicole               Reed                           528              Dogwood                                                      Court           Suite F         Shady Grove                                                  Sonoma County                  CA       92812      United States                -8.00 apartment                                             4497.12
+AAAAAAAAAAELEAAA Miss         Caroline             Becker                         347              Smith                                                        Pkwy            Suite G         Mount Pleasant                                               Amador County                  CA       91933      United States                -8.00 apartment                                             6935.26
+AAAAAAAAAAEMHAAA Sir          Michael              Mccoy                          12               Center                                                       Ct.             Suite 200       Lakeview                                                     Placer County                  CA       98579      United States                -8.00 single family                                         1875.01
+AAAAAAAAAAFGLAAA Mr.          Michael              Nicholson                      258              12th Park                                                    Avenue          Suite 440       Glendale                                                     Mariposa County                CA       93951      United States                -8.00 apartment                                             2249.76
+AAAAAAAAAAFLGBAA Miss         Barbara              NULL                           475              Walnut College                                               RD              Suite 240       Five Points                                                  Sacramento County              CA       96098      United States                -8.00 apartment                                             2942.30
+AAAAAAAAAAGCCBAA Sir          Wayne                Bennett                        937              College                                                      Wy              Suite W         Shady Grove                                                  Kern County                    CA       92812      United States                -8.00 single family                                         1975.63
+AAAAAAAAAAGKLBAA Dr.          Danny                Jones                          454              View Oak                                                     Wy              Suite G         Farmington                                                   Shasta County                  CA       99145      United States                -8.00 apartment                                             2243.44
+AAAAAAAAAAGLFAAA Sir          Mark                 Long                           92               Oak                                                          Ave             Suite 370       Edgewood                                                     Imperial County                CA       90069      United States                -8.00 single family                                         1834.11
+AAAAAAAAAAHEDBAA Sir          Bobby                Jones                          172              6th                                                          Way             Suite W         Springfield                                                  Amador County                  CA       99303      United States                -8.00 apartment                                             7182.12
+AAAAAAAAAAHKLAAA Mr.          Frank                Parrott                        982              Johnson Meadow                                               ST              Suite P         Riverview                                                    Glenn County                   CA       99003      United States                -8.00 single family                                         2657.10
+AAAAAAAAAAHKNBAA Ms.          Lucy                 Davis                          599              Main Cedar                                                   Road            Suite A         Waterloo                                                     Kings County                   CA       91675      United States                -8.00 condo                                                 1781.74
+AAAAAAAAAAHLLAAA NULL         Craig                Gilbert                        327              Broadway Birch                                               Ct.             Suite P         Fairfield                                                    Colusa County                  CA       96192      United States                -8.00 apartment                                             1742.54
+AAAAAAAAAAHLLAAA NULL         Craig                Gilbert                        327              Broadway Birch                                               Ct.             Suite P         Fairfield                                                    Colusa County                  CA       96192      United States                -8.00 apartment                                             1891.26
+AAAAAAAAAAHLNBAA Sir          Lacy                 Pereira                        217              Meadow Dogwood                                               Court           Suite 350       Plainview                                                    Sonoma County                  CA       93683      United States                -8.00 single family                                         9668.43
+AAAAAAAAAAHOLAAA Miss         Linda                Clark                          848              Lincoln                                                      Lane            Suite I         Spring Valley                                                Mendocino County               CA       96060      United States                -8.00 single family                                         5541.97
+AAAAAAAAAAIAAAAA Mr.          Dean                 Baum                           470              First 1st                                                    ST              Suite P         Oak Ridge                                                    Stanislaus County              CA       98371      United States                -8.00 condo                                                 4652.44
+AAAAAAAAAAIKNAAA Mr.          Daniel               Wilkerson                      73               Center                                                       ST              Suite J         Wildwood                                                     San Diego County               CA       96871      United States                -8.00 condo                                                 4785.03
+AAAAAAAAAAIMJAAA Mr.          Zachary              Grant                          620              2nd                                                          Ln              Suite H         Arlington                                                    Amador County                  CA       96557      United States                -8.00 condo                                                 2148.95
+AAAAAAAAAAIMJAAA Mr.          Zachary              Grant                          620              2nd                                                          Ln              Suite H         Arlington                                                    Amador County                  CA       96557      United States                -8.00 condo                                                 7742.27
+AAAAAAAAAAJADBAA Dr.          Alan                 Bowen                          792              Locust                                                       Street          Suite M         Avoca                                                        Mendocino County               CA       90540      United States                -8.00 apartment                                             2512.26
+AAAAAAAAAAJEHBAA Ms.          Jennifer             Dortch                         471              Smith                                                        Avenue          Suite 180       Shady Grove                                                  Lassen County                  CA       92812      United States                -8.00 condo                                                 4835.40
+AAAAAAAAAAJHIBAA NULL         Andrew               Garcia                         715              Franklin 8th                                                 Ct.             Suite G         Belmont                                                      Santa Cruz County              CA       90191      United States                -8.00 apartment                                             2499.05
+AAAAAAAAAAJHIBAA NULL         Andrew               Garcia                         715              Franklin 8th                                                 Ct.             Suite G         Belmont                                                      Santa Cruz County              CA       90191      United States                -8.00 apartment                                             2697.91
+AAAAAAAAAAJHJBAA Dr.          Tyson                Brennan                        3                Cedar Central                                                Ln              Suite X         Wilson                                                       Amador County                  CA       96971      United States                -8.00 apartment                                             9456.34
+AAAAAAAAAAKBHAAA Mrs.         Brittany             Dawson                         944              Spring Walnut                                                Drive           Suite Q         Union Hill                                                   Butte County                   CA       97746      United States                -8.00 single family                                         8178.30
+AAAAAAAAAAKCDAAA Dr.          Thomas               Finn                           406              10th 5th                                                     Dr.             Suite 450       Forest Hills                                                 Plumas County                  CA       99237      United States                -8.00 condo                                                 5230.69
+AAAAAAAAAAKJHBAA Ms.          Susan                Davis                          54               Elm                                                          RD              Suite 150       Red Hill                                                     Mariposa County                CA       94338      United States                -8.00 condo                                                 1989.71
+AAAAAAAAAAKJHBAA Ms.          Susan                Davis                          54               Elm                                                          RD              Suite 150       Red Hill                                                     Mariposa County                CA       94338      United States                -8.00 condo                                                 2987.64
+AAAAAAAAAAKLAAAA Dr.          Randy                Drake                          142              10th                                                         Lane            Suite K         Bunker Hill                                                  Mono County                    CA       90150      United States                -8.00 apartment                                             2604.58
+AAAAAAAAAALDAAAA Dr.          Mozelle              Linville                       359              4th Lakeview                                                 Court           Suite 230       Lakeside                                                     Alameda County                 CA       99532      United States                -8.00 single family                                         2089.88
+AAAAAAAAAALDEAAA Sir          Donald               Reynolds                       61               4th                                                          Circle          Suite F         Highland Park                                                Trinity County                 CA       96534      United States                -8.00 apartment                                             2129.31
+AAAAAAAAAALEJAAA Dr.          Raul                 Maxey                          380              Miller Ash                                                   Wy              Suite 440       Greenwood                                                    Lake County                    CA       98828      United States                -8.00 apartment                                             3051.92
+AAAAAAAAAALEJAAA Dr.          Raul                 Maxey                          380              Miller Ash                                                   Wy              Suite 440       Greenwood                                                    Lake County                    CA       98828      United States                -8.00 apartment                                             5771.84
+AAAAAAAAAALLIBAA Ms.          Diane                Engel                          636              Mill Jackson                                                 RD              Suite 30        Summit                                                       Yolo County                    CA       90499      United States                -8.00 condo                                                 4200.37
+AAAAAAAAAALMLBAA Miss         Martha               Palmer                         34               Hill Washington                                              Ln              Suite 130       Newport                                                      San Bernardino County          CA       91521      United States                -8.00 condo                                                 2560.24
+AAAAAAAAAALPFBAA Ms.          Susan                Gonzalez                       782              8th                                                          Parkway         Suite 320       Plainview                                                    Orange County                  CA       93683      United States                -8.00 condo                                                 2414.58
+AAAAAAAAAAMODBAA Dr.          Barbara              Zimmerman                      967              Ridge                                                        Way             Suite 50        Kingston                                                     San Bernardino County          CA       94975      United States                -8.00 single family                                         2443.71
+AAAAAAAAAANBIAAA Mr.          Oscar                Staples                        210              Wilson                                                       Ln              Suite J         Longwood                                                     Contra Costa County            CA       97021      United States                -8.00 condo                                                 4009.50
+AAAAAAAAAANEFAAA Sir          Mike                 Luna                           807              River                                                        Wy              Suite M         Woodlawn                                                     San Mateo County               CA       94098      United States                -8.00 condo                                                 3181.38
+AAAAAAAAAANFBBAA Dr.          Joseph               Wilson                         973              7th Locust                                                   Cir.            Suite T         Plainview                                                    San Benito County              CA       93683      United States                -8.00 condo                                                 1755.55
+AAAAAAAAAANJMBAA Dr.          Armando              Cormier                        426              Jefferson Second                                             Pkwy            Suite I         Wilson                                                       Humboldt County                CA       96971      United States                -8.00 single family                                         2178.30
+AAAAAAAAAANJMBAA Dr.          Armando              Cormier                        426              Jefferson Second                                             Pkwy            Suite I         Wilson                                                       Humboldt County                CA       96971      United States                -8.00 single family                                         5555.12
+AAAAAAAAAANLFBAA Mr.          Felix                Monroe                         612              Main                                                         Ln              Suite 130       Edgewood                                                     Stanislaus County              CA       90069      United States                -8.00 apartment                                             2471.85
+AAAAAAAAAANNCBAA Sir          Scott                Mayhew                         656              Church                                                       Boulevard       Suite T         Macedonia                                                    Yolo County                    CA       91087      United States                -8.00 apartment                                             3362.50
+AAAAAAAAAANNDAAA Mr.          Calvin               Wiley                          701              3rd Central                                                  Pkwy            Suite 290       Maple Grove                                                  Amador County                  CA       98252      United States                -8.00 apartment                                             4829.82
+AAAAAAAAAANNHBAA Ms.          Elvera               Good                           546              5th                                                          Wy              Suite 480       Oakwood                                                      Amador County                  CA       90169      United States                -8.00 condo                                                 2294.40
+AAAAAAAAAANNHBAA Ms.          Elvera               Good                           546              5th                                                          Wy              Suite 480       Oakwood                                                      Amador County                  CA       90169      United States                -8.00 condo                                                 4578.92
+AAAAAAAAAAOLBAAA Mr.          Joseph               Wortham                        594              Park Main                                                    Parkway         Suite 260       Clifton                                                      Madera County                  CA       98014      United States                -8.00 apartment                                             2594.81
+AAAAAAAAAAPEOBAA Mr.          John                 Martinez                       981              Birch Maple                                                  RD              Suite 150       Waterloo                                                     Amador County                  CA       91675      United States                -8.00 apartment                                             1867.62
+AAAAAAAAAAPGJAAA Sir          Ronald               Shelton                        139              Center                                                       Ct.             Suite H         Enterprise                                                   El Dorado County               CA       91757      United States                -8.00 apartment                                             2522.50
+AAAAAAAAAAPGJAAA Sir          Ronald               Shelton                        139              Center                                                       Ct.             Suite H         Enterprise                                                   El Dorado County               CA       91757      United States                -8.00 apartment                                             3377.11
+AAAAAAAAABAEJAAA Dr.          Cheryl               Judge                          250              Church                                                       Avenue          Suite O         Oak Hill                                                     Marin County                   CA       97838      United States                -8.00 single family                                         4977.68
+AAAAAAAAABAHLAAA Dr.          Jonathan             Place                          489              13th Railroad                                                Pkwy            Suite 120       Arlington                                                    Sacramento County              CA       96557      United States                -8.00 condo                                                 3081.91
+AAAAAAAAABAJNAAA Mrs.         Janet                Larson                         430              Wilson Elm                                                   ST              Suite 430       Pleasant Hill                                                Plumas County                  CA       93604      United States                -8.00 condo                                                 2337.90
+AAAAAAAAABCALBAA Miss         Lisa                 Irby                           364              Center                                                       Pkwy            Suite H         California                                                   Inyo County                    CA       90141      United States                -8.00 apartment                                             2263.80
+AAAAAAAAABCCCAAA Ms.          Teresa               Jackson                        361              Central                                                      Way             Suite V         Farmington                                                   San Luis Obispo County         CA       99145      United States                -8.00 condo                                                 1894.95
+AAAAAAAAABDOEAAA Dr.          Patrick              Harris                         504              6th Chestnut                                                 Lane            Suite 310       Lebanon                                                      Yuba County                    CA       92898      United States                -8.00 apartment                                             2562.41
+AAAAAAAAABDOEAAA Dr.          Patrick              Harris                         504              6th Chestnut                                                 Lane            Suite 310       Lebanon                                                      Yuba County                    CA       92898      United States                -8.00 apartment                                             5790.62
+AAAAAAAAABEGKAAA Mrs.         Sherri               Harper                         408              Valley Oak                                                   Lane            Suite X         Jackson                                                      Solano County                  CA       99583      United States                -8.00 single family                                         6587.98
+AAAAAAAAABFGNAAA Mrs.         Alma                 Meyer                          592              Seventh                                                      NULL            NULL            NULL                                                         Santa Barbara County           CA       98054      NULL                          NULL apartment                                             4035.65
+AAAAAAAAABFHBAAA Ms.          Marsha               Cavanaugh                      21               Elm Spruce                                                   Dr.             Suite G         Spring Hill                                                  Santa Clara County             CA       96787      United States                -8.00 single family                                         5718.03
+AAAAAAAAABFOBAAA Dr.          Mollie               Santiago                       402              Davis Highland                                               Street          Suite 360       Fairfield                                                    Placer County                  CA       96192      United States                -8.00 apartment                                             2310.96
+AAAAAAAAABGJIBAA Sir          Devin                Goode                          671              East                                                         ST              Suite K         Lakeview                                                     Tulare County                  CA       98579      United States                -8.00 condo                                                 2171.87
+AAAAAAAAABHDEAAA Sir          Eric                 Mercado                        527              Pine                                                         Parkway         Suite 20        Newport                                                      Yolo County                    CA       91521      United States                -8.00 apartment                                             4489.39
+AAAAAAAAABIADBAA Dr.          Fletcher             Gatewood                       219              View                                                         Pkwy            Suite 440       Oakdale                                                      Amador County                  CA       99584      United States                -8.00 apartment                                             5244.60
+AAAAAAAAABIHDAAA Miss         Ruby                 Smalley                        596              5th Cherry                                                   Wy              Suite L         Bridgeport                                                   Kings County                   CA       95817      United States                -8.00 single family                                         2253.20
+AAAAAAAAABINMAAA Sir          Richard              Rivera                         546              Cherry Main                                                  Parkway         Suite 290       Jackson                                                      Butte County                   CA       99583      United States                -8.00 apartment                                             3392.31
+AAAAAAAAABIOGBAA NULL         NULL                 Ouellette                      855              7th 5th                                                      Wy              Suite K         Ashland                                                      Del Norte County               CA       94244      United States                -8.00 single family                                         2593.90
+AAAAAAAAABJCIAAA Dr.          Luther               Lee                            506              Center East                                                  RD              Suite 440       Winslow                                                      Colusa County                  CA       98525      United States                -8.00 single family                                         2081.80
+AAAAAAAAABKGFAAA Mr.          Omar                 Simpson                        393              Woodland                                                     Pkwy            Suite I         Fairfield                                                    Sacramento County              CA       96192      United States                -8.00 single family                                         2680.21
+AAAAAAAAABKJBAAA Sir          NULL                 Crawford                       200              Miller Lake                                                  Street          Suite L         Liberty                                                      Butte County                   CA       93451      United States                -8.00 single family                                         4226.17
+AAAAAAAAABKJEBAA Dr.          Delia                Scott                          690              Hickory                                                      Parkway         Suite 170       Macedonia                                                    Marin County                   CA       91087      United States                -8.00 condo                                                 5369.99
+AAAAAAAAABLMDBAA Dr.          Jamie                Peterson                       606              NULL                                                         Ln              NULL            NULL                                                         Lake County                    CA       NULL       NULL                         -8.00 single family                                         9448.74
+AAAAAAAAABLPOAAA Mrs.         Agnes                Smith                          432              North                                                        Ln              Suite 110       Union                                                        Kern County                    CA       98721      United States                -8.00 condo                                                 2652.75
+AAAAAAAAABMMCAAA Dr.          William              Winkler                        244              Madison Walnut                                               Ct.             Suite U         Hamilton                                                     Lassen County                  CA       92808      United States                -8.00 apartment                                             2908.15
+AAAAAAAAABMNGBAA Sir          David                Thomas                         213              15th Locust                                                  Way             Suite 80        Mount Zion                                                   Calaveras County               CA       98054      United States                -8.00 single family                                         1801.06
+AAAAAAAAABMNGBAA Sir          David                Thomas                         213              15th Locust                                                  Way             Suite 80        Mount Zion                                                   Calaveras County               CA       98054      United States                -8.00 single family                                         4635.25
+AAAAAAAAABMNKBAA Mr.          Leo                  Osorio                         480              View Center                                                  RD              Suite Q         Salem                                                        Calaveras County               CA       98048      United States                -8.00 condo                                                 2697.15
+AAAAAAAAABMNKBAA Mr.          Leo                  Osorio                         480              View Center                                                  RD              Suite Q         Salem                                                        Calaveras County               CA       98048      United States                -8.00 condo                                                 5570.45
+AAAAAAAAABMOMBAA Ms.          Rosalinda            Hill                           870              Sunset                                                       Drive           Suite 480       Union                                                        Mendocino County               CA       98721      United States                -8.00 single family                                         8630.83
+AAAAAAAAABMPEAAA Mrs.         Kara                 Barbour                        140              View Church                                                  Court           Suite 420       Lincoln                                                      San Diego County               CA       91289      United States                -8.00 apartment                                             9258.60
+AAAAAAAAABNCKAAA Dr.          John                 Luciano                        862              View                                                         Lane            Suite 260       Quincy                                                       Lassen County                  CA       93868      United States                -8.00 single family                                         8947.02
+AAAAAAAAABNHJBAA Dr.          Paul                 Thomas                         299              Main                                                         Cir.            Suite 80        Plainview                                                    Napa County                    CA       93683      United States                -8.00 condo                                                 3759.87
+AAAAAAAAABNNDBAA Sir          Justin               Shelton                        8                Lake                                                         ST              Suite H         Pleasant Hill                                                San Mateo County               CA       93604      United States                -8.00 apartment                                             9041.15
+AAAAAAAAABOGOAAA Mr.          Glen                 Gonzalez                       797              North Washington                                             Street          Suite Q         Concord                                                      Napa County                    CA       94107      United States                -8.00 apartment                                             4648.17
+AAAAAAAAABOJMAAA Dr.          Mathew               North                          734              Park Laurel                                                  Ave             Suite 80        Brownsville                                                  San Bernardino County          CA       99310      United States                -8.00 apartment                                             2709.72
+AAAAAAAAABOJMAAA Dr.          Mathew               North                          734              Park Laurel                                                  Ave             Suite 80        Brownsville                                                  San Bernardino County          CA       99310      United States                -8.00 apartment                                             3058.60
+AAAAAAAAABOJMAAA Dr.          Mathew               North                          734              Park Laurel                                                  Ave             Suite 80        Brownsville                                                  San Bernardino County          CA       99310      United States                -8.00 apartment                                             4016.10
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 33275 ms,  elapsed time = 35772 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              i_current_price
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 1 ms,  elapsed time = 0 ms.
+item_id          sr_item_qty sr_dev                  cr_item_qty cr_dev                  wr_item_qty wr_dev                  average            
+---------------- ----------- ----------------------- ----------- ----------------------- ----------- ----------------------- -------------------
+AAAAAAAAAAABDAAA          26                 .000000         157                 .000000          68                 .000000           83.666666
+AAAAAAAAAAAEAAAA         168                 .000000          14                 .000000         103                 .000000           95.000000
+AAAAAAAAAAAFAAAA          93                 .000000          49                 .000000          50                 .000000           64.000000
+AAAAAAAAAAAGBAAA          82                 .000000           3                 .000000          23                 .000000           36.000000
+AAAAAAAAAAAGCAAA           8                 .000000          29                 .000000          87                 .000000           41.333333
+AAAAAAAAAABABAAA          19                 .000000          42                 .000000          36                 .000000           32.333333
+AAAAAAAAAABADAAA          68                 .000000         202                 .000000          57                 .000000          109.000000
+AAAAAAAAAABBAAAA          38                 .000000          61                 .000000         149                 .000000           82.666666
+AAAAAAAAAABBDAAA         149                 .000000           9                 .000000          38                 .000000           65.333333
+AAAAAAAAAABCBAAA           1                 .000000          82                 .000000          48                 .000000           43.666666
+AAAAAAAAAABFBAAA          44                    NULL        NULL                    NULL          11                    NULL                NULL
+AAAAAAAAAABFCAAA          20                 .000000          47                 .000000          10                 .000000           25.666666
+AAAAAAAAAABHAAAA          12                 .000000          10                 .000000          51                 .000000           24.333333
+AAAAAAAAAABJAAAA         151                 .000000          49                 .000000          45                 .000000           81.666666
+AAAAAAAAAABMAAAA          22                    NULL          75                    NULL        NULL                    NULL                NULL
+AAAAAAAAAABOBAAA          84                 .000000          63                 .000000          11                 .000000           52.666666
+AAAAAAAAAABPBAAA          37                 .000000          40                 .000000          71                 .000000           49.333333
+AAAAAAAAAACAAAAA          15                    NULL          53                    NULL        NULL                    NULL                NULL
+AAAAAAAAAACACAAA          56                 .000000          74                 .000000          38                 .000000           56.000000
+AAAAAAAAAACBBAAA         109                 .000000          68                 .000000          94                 .000000           90.333333
+AAAAAAAAAACCAAAA          22                 .000000         110                 .000000          61                 .000000           64.333333
+AAAAAAAAAACFAAAA           1                 .000000         139                 .000000          30                 .000000           56.666666
+AAAAAAAAAACGAAAA          39                 .000000          48                 .000000          21                 .000000           36.000000
+AAAAAAAAAACHCAAA          52                 .000000          21                 .000000          31                 .000000           34.666666
+AAAAAAAAAACKBAAA          87                 .000000           1                 .000000          40                 .000000           42.666666
+AAAAAAAAAACMAAAA          51                 .000000           2                 .000000          17                 .000000           23.333333
+AAAAAAAAAACMCAAA          15                 .000000           1                 .000000           4                 .000000            6.666666
+AAAAAAAAAACNBAAA          65                 .000000           7                 .000000          17                 .000000           29.666666
+AAAAAAAAAACOBAAA          10                 .000000          15                 .000000          31                 .000000           18.666666
+AAAAAAAAAADBBAAA           7                 .000000          49                 .000000          95                 .000000           50.333333
+AAAAAAAAAADCAAAA         145                 .000000          85                 .000000          22                 .000000           84.000000
+AAAAAAAAAADDBAAA         139                 .000000           1                 .000000          75                 .000000           71.666666
+AAAAAAAAAADEAAAA           8                    NULL        NULL                    NULL          42                    NULL                NULL
+AAAAAAAAAADFCAAA         175                 .000000          33                 .000000          59                 .000000           89.000000
+AAAAAAAAAADGCAAA         115                 .000000           2                 .000000           1                 .000000           39.333333
+AAAAAAAAAADHAAAA          87                 .000000           8                 .000000          82                 .000000           59.000000
+AAAAAAAAAADICAAA          59                 .000000          44                 .000000          32                 .000000           45.000000
+AAAAAAAAAADKAAAA          58                 .000000           1                 .000000          19                 .000000           26.000000
+AAAAAAAAAADLCAAA          42                 .000000           3                 .000000           2                 .000000           15.666666
+AAAAAAAAAADNAAAA         163                 .000000          72                 .000000          58                 .000000           97.666666
+AAAAAAAAAADNBAAA          21                 .000000           7                 .000000          55                 .000000           27.666666
+AAAAAAAAAAEBDAAA         126                 .000000          77                 .000000          62                 .000000           88.333333
+AAAAAAAAAAEKAAAA          26                 .000000           2                 .000000          52                 .000000           26.666666
+AAAAAAAAAAEKCAAA          89                 .000000          84                 .000000         104                 .000000           92.333333
+AAAAAAAAAAEMAAAA          91                 .000000          10                 .000000          10                 .000000           37.000000
+AAAAAAAAAAFAAAAA         100                 .000000         100                 .000000          98                 .000000           99.333333
+AAAAAAAAAAFACAAA          96                 .000000           2                 .000000          30                 .000000           42.666666
+AAAAAAAAAAFADAAA          36                 .000000          34                 .000000          69                 .000000           46.333333
+AAAAAAAAAAFCAAAA          57                 .000000          83                 .000000           7                 .000000           49.000000
+AAAAAAAAAAFCBAAA          65                 .000000          77                 .000000           2                 .000000           48.000000
+AAAAAAAAAAFDCAAA          22                 .000000           3                 .000000          25                 .000000           16.666666
+AAAAAAAAAAFFBAAA          39                 .000000           3                 .000000          21                 .000000           21.000000
+AAAAAAAAAAFGCAAA         121                 .000000          63                 .000000          22                 .000000           68.666666
+AAAAAAAAAAFHBAAA          28                 .000000          71                 .000000         118                 .000000           72.333333
+AAAAAAAAAAFLBAAA         189                 .000000          16                 .000000          36                 .000000           80.333333
+AAAAAAAAAAFMCAAA         102                 .000000          10                 .000000          16                 .000000           42.666666
+AAAAAAAAAAFNBAAA           4                 .000000          53                 .000000           8                 .000000           21.666666
+AAAAAAAAAAGBBAAA          19                    NULL        NULL                    NULL          91                    NULL                NULL
+AAAAAAAAAAGBDAAA         120                 .000000          62                 .000000           7                 .000000           63.000000
+AAAAAAAAAAGCAAAA         237                    NULL          59                    NULL        NULL                    NULL                NULL
+AAAAAAAAAAGCCAAA         128                 .000000          60                 .000000          10                 .000000           66.000000
+AAAAAAAAAAGDBAAA          37                 .000000          23                 .000000         128                 .000000           62.666666
+AAAAAAAAAAGEBAAA          10                 .000000          59                 .000000           3                 .000000           24.000000
+AAAAAAAAAAGICAAA          39                 .000000          39                 .000000          19                 .000000           32.333333
+AAAAAAAAAAGKBAAA          78                 .000000          46                 .000000           1                 .000000           41.666666
+AAAAAAAAAAGLCAAA          48                 .000000          66                 .000000          17                 .000000           43.666666
+AAAAAAAAAAGMBAAA          75                 .000000          10                 .000000          34                 .000000           39.666666
+AAAAAAAAAAGNAAAA          45                 .000000         121                 .000000          94                 .000000           86.666666
+AAAAAAAAAAGOCAAA           7                 .000000           3                 .000000           8                 .000000            6.000000
+AAAAAAAAAAGPBAAA         165                 .000000         173                 .000000          22                 .000000          120.000000
+AAAAAAAAAAHAAAAA         260                 .000000          66                 .000000           3                 .000000          109.666666
+AAAAAAAAAAHBDAAA          32                 .000000          92                 .000000          62                 .000000           62.000000
+AAAAAAAAAAHCBAAA          44                 .000000         102                 .000000          36                 .000000           60.666666
+AAAAAAAAAAHDBAAA         106                 .000000         183                 .000000          16                 .000000          101.666666
+AAAAAAAAAAHFCAAA          61                 .000000          94                 .000000          64                 .000000           73.000000
+AAAAAAAAAAHGAAAA         182                 .000000          34                 .000000          34                 .000000           83.333333
+AAAAAAAAAAHHCAAA         102                 .000000          16                 .000000          43                 .000000           53.666666
+AAAAAAAAAAHICAAA          46                 .000000          76                 .000000           4                 .000000           42.000000
+AAAAAAAAAAHJAAAA         189                 .000000         140                 .000000          28                 .000000          119.000000
+AAAAAAAAAAHJBAAA         117                 .000000          17                 .000000           6                 .000000           46.666666
+AAAAAAAAAAHKCAAA          82                 .000000          57                 .000000           5                 .000000           48.000000
+AAAAAAAAAAHMBAAA          88                 .000000          88                 .000000          22                 .000000           66.000000
+AAAAAAAAAAHNCAAA          96                 .000000           4                 .000000          87                 .000000           62.333333
+AAAAAAAAAAIAAAAA           3                 .000000          29                 .000000          77                 .000000           36.333333
+AAAAAAAAAAIADAAA          51                 .000000          18                 .000000          39                 .000000           36.000000
+AAAAAAAAAAIBCAAA           7                 .000000          37                 .000000          19                 .000000           21.000000
+AAAAAAAAAAIDAAAA          86                 .000000          27                 .000000          82                 .000000           65.000000
+AAAAAAAAAAIDCAAA           4                 .000000           3                 .000000          21                 .000000            9.333333
+AAAAAAAAAAIFAAAA          31                 .000000          49                 .000000          31                 .000000           37.000000
+AAAAAAAAAAIHBAAA          25                 .000000          27                 .000000          51                 .000000           34.333333
+AAAAAAAAAAIIAAAA         186                 .000000          88                 .000000          18                 .000000           97.333333
+AAAAAAAAAAIKCAAA          63                 .000000          80                 .000000          60                 .000000           67.666666
+AAAAAAAAAAIOBAAA          38                 .000000          25                 .000000          17                 .000000           26.666666
+AAAAAAAAAAIPAAAA          34                 .000000          42                 .000000          45                 .000000           40.333333
+AAAAAAAAAAJBBAAA          92                 .000000          43                 .000000           7                 .000000           47.333333
+AAAAAAAAAAJCAAAA          33                 .000000          77                 .000000          13                 .000000           41.000000
+AAAAAAAAAAJEAAAA         102                 .000000          97                 .000000          60                 .000000           86.333333
+AAAAAAAAAAJFAAAA         100                    NULL          35                    NULL        NULL                    NULL                NULL
+AAAAAAAAAAJHBAAA          13                 .000000         150                 .000000          31                 .000000           64.666666
+AAAAAAAAAAJJBAAA         200                 .000000          82                 .000000          20                 .000000          100.666666
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 11618 ms,  elapsed time = 65724 ms.
+customer_id      customername                                        
+---------------- ----------------------------------------------------
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAAAMDAAA West                          , Marlin              
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAACOABAA King                          , Michael             
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAADABBAA Dempsey                       , Daniel              
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEAHAAA Romero                        , Susan               
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAEJGBAA Malone                        , Phyllis             
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFEIAAA Schaeffer                     , Robert              
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFFEAAA Ferris                        , Mark                
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAFHLAAA Barnett                       , James               
+AAAAAAAAAAHJBAAA Bills                         , Charles             
+AAAAAAAAAAHJBAAA Bills                         , Charles             
+
+(100 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 5757 ms,  elapsed time = 37274 ms.
+                                                                                                                  
+-------------------- ----------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+total_sum                                i_category                                         i_class                                            lochierarchy rank_within_parent  
+---------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------ --------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+           
+-----------
+          0
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+h8_30_to_9  h9_to_9_30  h9_30_to_10 h10_to_10_30 h10_30_to_11 h11_to_11_30 h11_30_to_12 h12_to_12_30
+----------- ----------- ----------- ------------ ------------ ------------ ------------ ------------
+          0           0           0            0            0            0            0            0
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_category                                         i_class                                            i_brand                                            s_store_name                                       s_company_name                                     d_moy       sum_sales                                avg_monthly_sales                       
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ----------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Msg 8134, Level 16, State 1, Server dwh1, Line 4598
+Divide by zero error encountered.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Call_Center      Call_Center_Name                                   Manager                                  Returns_Loss                            
+---------------- -------------------------------------------------- ---------------------------------------- ----------------------------------------
+AAAAAAAAOAAAAAAA Mid Atlantic_1                                     Charles Hinkle                                                           33026.48
+AAAAAAAAJBAAAAAA NY Metro_2                                         Richard James                                                            31306.22
+AAAAAAAAABAAAAAA North Midwest_1                                    Miguel Bird                                                              29686.82
+AAAAAAAAJBAAAAAA NY Metro_2                                         Richard James                                                            28324.01
+AAAAAAAAOAAAAAAA Mid Atlantic_1                                     Charles Hinkle                                                           26982.85
+AAAAAAAAIAAAAAAA California                                         Wayne Ray                                                                25063.45
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                      Gregory Altman                                                           24225.24
+AAAAAAAAABAAAAAA North Midwest_1                                    Miguel Bird                                                              23863.92
+AAAAAAAABAAAAAAA NY Metro                                           Bob Belcher                                                              22686.77
+AAAAAAAACAAAAAAA Mid Atlantic                                       Mark Hightower                                                           22470.70
+AAAAAAAABAAAAAAA NY Metro                                           Bob Belcher                                                              20810.41
+AAAAAAAAEBAAAAAA California_1                                       Jason Brito                                                              20705.52
+AAAAAAAANAAAAAAA NY Metro_1                                         Jack Little                                                              19586.20
+AAAAAAAANAAAAAAA NY Metro_1                                         Jack Little                                                              18735.46
+AAAAAAAADBAAAAAA Pacific Northwest_1                                Roderick Walls                                                           17869.83
+AAAAAAAAIAAAAAAA California                                         Wayne Ray                                                                17807.02
+AAAAAAAAEBAAAAAA California_1                                       Jason Brito                                                              17672.40
+AAAAAAAACAAAAAAA Mid Atlantic                                       Mark Hightower                                                           16583.60
+AAAAAAAADBAAAAAA Pacific Northwest_1                                Roderick Walls                                                           16365.13
+AAAAAAAAGBAAAAAA Hawaii/Alaska_1                                    Travis Wilson                                                            16339.45
+AAAAAAAAHAAAAAAA Pacific Northwest                                  Alden Snyder                                                             16139.77
+AAAAAAAAKBAAAAAA Mid Atlantic_2                                     Dion Speer                                                               15858.47
+AAAAAAAAMBAAAAAA North Midwest_2                                    David Brown                                                              15777.52
+AAAAAAAAEAAAAAAA North Midwest                                      Larry Mccray                                                             15720.95
+AAAAAAAAMBAAAAAA North Midwest_2                                    David Brown                                                              14921.89
+AAAAAAAAKAAAAAAA Hawaii/Alaska                                      Gregory Altman                                                           14887.72
+AAAAAAAAKBAAAAAA Mid Atlantic_2                                     Dion Speer                                                               13731.49
+AAAAAAAAHAAAAAAA Pacific Northwest                                  Alden Snyder                                                             10127.63
+AAAAAAAAEAAAAAAA North Midwest                                      Larry Mccray                                                              7470.46
+AAAAAAAAGBAAAAAA Hawaii/Alaska_1                                    Travis Wilson                                                             6372.88
+
+(30 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 4511 ms,  elapsed time = 26798 ms.
+Excess Discount Amount                  
+----------------------------------------
+                                    NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+ss_customer_sk sumsales                                
+-------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+order count total shipping cost                      total net profit                        
+----------- ---------------------------------------- ----------------------------------------
+          0                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+order count total shipping cost                      total net profit                        
+----------- ---------------------------------------- ----------------------------------------
+          0                                     NULL                                     NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+           
+-----------
+          0
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+store_only  catalog_only store_and_catalog
+----------- ------------ -----------------
+       NULL         NULL              NULL
+
+(1 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+i_item_id        i_item_desc                                                                                                                                                                                              i_category                                         i_class                                            i_current_price itemrevenue                              revenueratio                            
+---------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------- ---------------------------------------- ----------------------------------------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+                     sm_type                        cc_name                                            30 days     31-60 days  61-90 days  91-120 days >120 days  
+-------------------- ------------------------------ -------------------------------------------------- ----------- ----------- ----------- ----------- -----------
+
+(0 rows affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+4096:1:456765:456765.0:0.0 
