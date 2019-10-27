@@ -4865,5 +4865,4 @@ order by SUBSTRING(w_warehouse_name,1,20)
 ;
 
 
-SET STATISTICS TIME OFF
-;
+SET STATISTICS TIME OFF;
