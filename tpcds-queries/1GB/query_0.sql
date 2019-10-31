@@ -1,3 +1,4 @@
+SET STATISTICS TIME ON;
 
 with customer_total_return as
 (select sr_customer_sk as ctr_customer_sk
@@ -784,7 +785,7 @@ select avg(ss_quantity)
 with  cross_items as
  (select i_item_sk ss_item_sk
  from item,
- (select iss.i_brand_id brand_id
+ (select distinct iss.i_brand_id brand_id
      ,iss.i_class_id class_id
      ,iss.i_category_id category_id
  from store_sales
@@ -794,7 +795,7 @@ with  cross_items as
    and ss_sold_date_sk = d1.d_date_sk
    and d1.d_year between 1999 AND 1999 + 2
  intersect 
- select ics.i_brand_id
+ select distinct ics.i_brand_id
      ,ics.i_class_id
      ,ics.i_category_id
  from catalog_sales
@@ -804,7 +805,7 @@ with  cross_items as
    and cs_sold_date_sk = d2.d_date_sk
    and d2.d_year between 1999 AND 1999 + 2
  intersect
- select iws.i_brand_id
+ select distinct iws.i_brand_id
      ,iws.i_class_id
      ,iws.i_category_id
  from web_sales
@@ -4864,3 +4865,4 @@ order by SUBSTRING(w_warehouse_name,1,20)
 ;
 
 
+SET STATISTICS TIME OFF;
