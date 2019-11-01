@@ -1,0 +1,50 @@
+ 14     
+ 120    
+ 85698  
+ 1015468 
+ 4360   
+ 8630   
+ 11468  
+ 1141   
+ 8      
+ 34     
+ 6      
+ 194816 
+ 1215   
+ 19     
+ 5      
+ 5      
+ 14     
+ 122758 
+ 1497486 
+ 672    
+ 12     
+ 18     
+ 35954  
+ 473525 
+ 55     
+call_center.dat
+catalog_page.dat
+catalog_returns.dat
+catalog_sales.dat
+customer_address.dat
+customer.dat
+customer_demographics.dat
+date_dim.dat
+dbgen_version.dat
+household_demographics.dat
+income_band.dat
+inventory.dat
+item.dat
+promotion.dat
+reason.dat
+ship_mode.dat
+store.dat
+store_returns.dat
+store_sales.dat
+time_dim.dat
+warehouse.dat
+web_page.dat
+web_returns.dat
+web_sales.dat
+web_site.dat
